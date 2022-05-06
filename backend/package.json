@@ -2,16 +2,16 @@
   "name": "feedget backend",
   "version": "1.0.0",
   "description": "#NLW8 - Rocketseat",
-  "license": "MIT",
-  "author": "@devlucascardoso",
   "homepage": "https://github.com/devlucascardoso/",
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "dev": "ts-node-dev --exit-child src/server.ts"
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "dev": "ts-node-dev src/server.ts"
   },
   "keywords": [],
-  "author": "",
+  "author": "@devlucascardoso",
   "license": "ISC",
   "devDependencies": {
     "@swc/jest": "^0.2.20",
