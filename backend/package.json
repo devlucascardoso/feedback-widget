@@ -1,12 +1,11 @@
 {
-  "name": "feedback widget",
   "version": "1.0.0",
   "description": "#NLW8 - Rocketseat",
   "homepage": "https://github.com/devlucascardoso/",
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "build": "tsc",
+    "build": "npx tsc",
     "start": "node dist/server.js",
     "dev": "ts-node-dev src/server.ts"
   },
