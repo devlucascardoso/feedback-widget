@@ -39,7 +39,7 @@ Para iniciá-lo, siga os passos abaixo:
 # Instalar as dependências
 $ npm install
 
-# Instalar as dependências
+# Criar o banco de dados
 $ npm prisma migrate dev
 
 # Iniciar o projeto
