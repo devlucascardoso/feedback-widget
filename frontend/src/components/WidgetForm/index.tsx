@@ -63,12 +63,12 @@ export function WidgetForm() {
         </>
       )}
       <footer className="text-xs text-neutral-400">
-        Feito com ♥ pela{" "}
+        Feito com ♥ por{" "}
         <a
-          href="https://rocketseat.com.br"
+          href="https://github.com/devlucascardoso"
           className="underline underline-offset-2"
         >
-          Rocketseat
+          @devlucascardoso
         </a>
       </footer>
     </div>

@@ -2,6 +2,12 @@
   "name": "frontend",
   "version": "1.0.0",
   "description": "#NLW8 - Rocketseat",
+  "keywords": [
+    "react",
+    "tailwindcss",
+    "vite",
+    "typescript"
+  ],
   "license": "MIT",
   "author": "@devlucascardoso",
   "homepage": "https://github.com/devlucascardoso/",

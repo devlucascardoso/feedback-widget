@@ -54,4 +54,14 @@ describe("Submit feedback", () => {
       })
     ).rejects.toThrow();
   });
+
+  it("should be able to send feedback without photo", async () => {
+    await expect(
+      submitFeedback.execute({
+        type: "BUG",
+        comment: "example comment",
+        screenshot: ``,
+      })
+    ).resolves.not.toThrow();
+  });
 });

@@ -2,17 +2,23 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "#NLW8 - Rocketseat",
+  "keywords": [
+    "node",
+    "express",
+    "typescript",
+    "prisma",
+    "jest",
+    "nodemailer"
+  ],
+  "license": "MIT",
+  "author": "@devlucascardoso",
   "homepage": "https://github.com/devlucascardoso/",
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "build": "npx tsc",
-    "start": "node dist/server.js",
+    "start": "npx tsc && node dist/server.js",
     "dev": "ts-node-dev src/server.ts"
   },
-  "keywords": [],
-  "author": "@devlucascardoso",
-  "license": "ISC",
   "devDependencies": {
     "@swc/jest": "^0.2.20",
     "@types/cors": "^2.8.12",
