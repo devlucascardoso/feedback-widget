@@ -1,27 +1,39 @@
-<h1 align="center">NLW Return - Impulse </h1>
+<p align="center">
+  <img alt="Next Level Week #8" src=".github/logo.png" />
+</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center">
-  <img alt="Next Level Week #8" src=".github/logo.png" />
-</p>
+## 💻 Projeto
+
+O projeto desenvolvido é uma aplicação para coleta de feedbacks que pode ser adicionado em qualquer ambiente mobile ou web.
+
+Este é um projeto desenvolvido durante a Next Level Week, apresentado pela **[Rocketseat](https://www.rocketseat.com.br)**.
+
+## 🎯 Funcionalidades
+
+- ✔️ Envio de feedbacks
+- ✔️ Screenshot com html2canvas
+- ✔️ Uso do MailTrap para o envio de e-mails com os feedbacks
 
 ## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- [Node.js](https://nodejs.org)
 - [React](https://reactjs.org)
 - [Tailwindcss](https://tailwindcss.com)
 - [Vite](https://vitejs.dev)
 - [TypeScript](https://www.typescriptlang.org)
-- [Express](https://expressjs.com/pt-br)
+- [Express](https://expressjs.com)
 - [Prisma](https://www.prisma.io)
+- [PostgreSQL](https://www.postgresql.org)
 - [Jest](https://jestjs.io)
 
 ## 🚀 Como executar
@@ -50,12 +62,6 @@ $ npm run dev
 
 A aplicação pode ser acessada em [`localhost:3334`](http://localhost:3334).
 
-## 💻 Projeto
-
-O projeto desenvolvido é uma aplicação para coleta de feedbacks que pode ser adicionado em qualquer ambiente mobile ou web.
-
-Este é um projeto desenvolvido durante a **[Next Level Week](https://www.rocketseat.com.br)**, apresentado pela Rocketseat.
-
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através do link abaixo:
@@ -64,10 +70,10 @@ Você pode visualizar o layout do projeto através do link abaixo:
 
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 
-## 📝 License
+## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
 
-Feito com 💜 by @devlucascardoso 👋🏻 [Siga-me para acompanhar novos projetos!](https://github.com/devlucascardoso/)
+Made with 💜 by **[@devlucascardoso](https://www.linkedin.com/in/lucas-cardoso-5a041a114/)**.
